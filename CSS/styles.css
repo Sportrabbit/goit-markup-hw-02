@@ -1,11 +1,11 @@
 @font-face {
     font-family: Roboto 500;
-    src: url(../Fonts/static/Raleway-Medium.ttf);
+    src: url(../Styles.css/Fonts/static/Raleway-Medium.ttf);
 }
 
 @font-face {
     font-family: Roboto 400;
-    src: url(../Fonts/static/Raleway-Regular.ttf);
+    src: url(../Styles.css/Fonts/static/Raleway-Regular.ttf);
 }
 
 body {
@@ -186,6 +186,7 @@ font-weight: 700;
 line-height: 1.11;
 letter-spacing: 0.02em;
 text-transform: capitalize;
+background-color: #F4F4FD
 }
 
 .team-list {
