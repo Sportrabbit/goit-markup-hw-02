@@ -1,11 +1,11 @@
 @font-face {
     font-family: Roboto 500;
-    src: url(../Styles.css/Fonts/static/Raleway-Medium.ttf);
+    src: url(../Fonts/static/Raleway-Medium.ttf);
 }
 
 @font-face {
     font-family: Roboto 400;
-    src: url(../Styles.css/Fonts/static/Raleway-Regular.ttf);
+    src: url(../Fonts/static/Raleway-Regular.ttf);
 }
 
 body {
@@ -138,8 +138,8 @@ font-family:"Roboto", sans-serif
 .hero-btn:hover {
     background-color: #404BBF
 } 
-
 .hero-btn:focus {
+    background-color: #404BBF;
     color: #FFFFFF;
 }
 
@@ -186,11 +186,9 @@ font-weight: 700;
 line-height: 1.11;
 letter-spacing: 0.02em;
 text-transform: capitalize;
-background-color: #F4F4FD
 }
 
 .team-list {
-    background-color: #F4F4FD
 }
 .team-item {
 }
@@ -236,7 +234,6 @@ text-transform: capitalize;
 .portfolio-item {
 }
 .portfolio-img {
-    width: 360;
 }
 .portfolio-subtitle {
     color: #2E2F42;
