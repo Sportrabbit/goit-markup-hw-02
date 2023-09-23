@@ -9,9 +9,7 @@
 }
 
 body {
-    font-family: ' Roboto', sans-serif;
-    color: #434455;
-    background-color: #FFFFFF;
+    font-family: ' Raleway', sans-serif;
 }
 
 ul{
@@ -59,10 +57,9 @@ a{
     color: #2E2F42;
 font-size: 18px;
 font-weight: 700;
-line-height: 1.17;
+line-height: 1.67;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-font-family: "Raleway", sans-serif
 }
 .header-logo-italic {
     color: #4D5AE5;
