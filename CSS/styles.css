@@ -253,16 +253,17 @@ letter-spacing: 0.02em;
     background-color: #2E2F42;
 }
 .footer-logo {
-    color: #F4F4FD;
+    color: #4D5AE5;
 font-size: 18px;
 font-weight: 700;
 line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
+font-family: "Raleway", sans-serif
 }
 
 .footer-logo span {
-color: #4D5AE5;
+color: #F4F4FD;
 }
 
 .footer-text {
