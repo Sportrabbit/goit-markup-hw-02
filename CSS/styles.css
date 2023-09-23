@@ -138,6 +138,7 @@ font-family:"Roboto", sans-serif
 .hero-btn:hover {
     background-color: #404BBF
 } 
+
 .hero-btn:focus {
     color: #FFFFFF;
 }
@@ -233,6 +234,7 @@ text-transform: capitalize;
 .portfolio-item {
 }
 .portfolio-img {
+    width: 360;
 }
 .portfolio-subtitle {
     color: #2E2F42;
