@@ -162,7 +162,7 @@ cursor: pointer;
 .order-btn:hover , 
 .order-btn:focus {
     background-color: #404BBF;
-    color: #FFFFFF;
+    color: #404BBF;
 }
 
 /**==================================*/
