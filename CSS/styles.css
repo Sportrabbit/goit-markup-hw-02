@@ -122,8 +122,11 @@ text-transform: uppercase;
     letter-spacing: 0.02em;
 }
 
-.header-address-item:focus ,
 .header-address-item:hover {
+    color: #404bbf ;
+}
+
+.header-address-item:focus {
     color: #404bbf ;
 }
 
