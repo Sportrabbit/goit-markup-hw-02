@@ -1,11 +1,16 @@
 @font-face {
-    font-family: Roboto 500;
-    src: url(../Fonts/static/Raleway-Medium.ttf);
+    font-family: "Roboto 500";
+    src: url(../Styles.css/Fonts.css/Roboto-Medium.ttf);
 }
 
 @font-face {
-    font-family: Roboto 400;
-    src: url(../Fonts/static/Raleway-Regular.ttf);
+    font-family: "Roboto 400";
+    src: url(../Styles.css/Fonts.css/Roboto-Regular.ttf);
+}
+
+@font-face {
+    font-family: "Raleway 700";
+    src: url(../Styles.css/Fonts.css/static.css/Raleway-Bold.ttf);
 }
 
 body {
