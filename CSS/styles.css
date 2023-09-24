@@ -61,13 +61,13 @@ a{
 .header-navigation {
 }
 .header-logo {
-    color: #2E2F42;
+    color: #4D5AE5;
+    font-family: "Raleway", sans-serif;
 font-size: 18px;
 font-weight: 700;
 line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-font-family: "Raleway", sans-serif ;
 }
 .header-logo-italic {
     color: #4D5AE5;
@@ -93,10 +93,10 @@ text-transform: uppercase;
 }
 
 .header-menu-link:hover {
-    color: #4D5AE5;
+    color: #404BBF;
 }
 .header-menu-link:focus {
-    color: #4D5AE5;
+    color: #404BBF;
 }
 .header-logo-italic{
     font-style: italic;
