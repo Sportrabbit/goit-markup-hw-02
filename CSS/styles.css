@@ -281,7 +281,7 @@ letter-spacing: 0.02em;
 .footer {
     background-color: #2E2F42;
 }
-.footer-logo {
+.footer-lg {
     color: #4d5ae5;
 font-family: "Raleway", sans-serif;
 font-size: 18px;
@@ -291,7 +291,7 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 }
 
-.footer-logo span {
+.footer-lg span {
 color: #f4f4fd ;
 }
 
