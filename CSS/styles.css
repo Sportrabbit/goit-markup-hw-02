@@ -67,7 +67,7 @@ font-weight: 700;
 line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-font-family: "Raleway", sans-serif
+font-family: "Raleway", sans-serif ;
 }
 .header-logo-italic {
     color: #4D5AE5;
@@ -188,11 +188,11 @@ letter-spacing: 0.02em;
 text-transform: capitalize;
 }
 
-.team-list {}
-
-.team-item {
+.team-list {
     background-color: #FFFFFF;
 }
+
+.team-item {}
 .team-img {
 }
 
