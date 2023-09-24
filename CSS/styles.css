@@ -159,8 +159,8 @@ letter-spacing: 0.04em;
 cursor: pointer;
 }
 
-.hero-btn:hover , 
-.hero-btn:focus {
+.order-btn:hover , 
+.order-btn:focus {
     background-color: #404BBF;
     color: #FFFFFF;
 }
