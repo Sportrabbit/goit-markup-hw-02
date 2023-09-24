@@ -127,7 +127,7 @@ text-transform: uppercase;
 }
 
 .header-address-item:focus {
-    color: #404bbf;
+    color:#404bbf;
 }
 
 .header-address-link {
