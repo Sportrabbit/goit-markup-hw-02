@@ -175,7 +175,7 @@ letter-spacing: 0.02em;
 /** ==============TEAM==============*/
 
 .team {
-    background-color: #F4F4FD
+   background-color: #F4F4FD
 }
 
 .team-title {
@@ -189,6 +189,7 @@ text-transform: capitalize;
 }
 
 .team-list {
+    background-color: #FFFFFF
 }
 .team-item {
 }
@@ -225,7 +226,7 @@ letter-spacing: 0.02em;
 text-align: center;
 font-size: 36px;
 font-weight: 700;
-line-height: 1.1;
+line-height: 1.11;
 letter-spacing: 0.02em;
 text-transform: capitalize;
 }
@@ -258,7 +259,8 @@ letter-spacing: 0.02em;
     background-color: #2E2F42;
 }
 .footer-logo {
-    color: #F4F4FD;
+    color: #4d5ae5;
+font-family: "Raleway", sans-serif;
 font-size: 18px;
 font-weight: 700;
 line-height: 1.17;
@@ -267,7 +269,7 @@ text-transform: uppercase;
 }
 
 .footer-logo span {
-color: #4D5AE5;
+color: #f4f4fd ;
 }
 
 .footer-text {
