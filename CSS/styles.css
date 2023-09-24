@@ -1,11 +1,11 @@
 @font-face {
     font-family: "Roboto 500";
-    src: url(../Styles.css/Fonts.css/Roboto-Medium.ttf);
+    src: url(../CSS/fonts.css/Roboto-Medium.ttf);
 }
 
 @font-face {
     font-family: "Roboto 400";
-    src: url(../Styles.css/Fonts.css/Roboto-Regular.ttf);
+    src: url(../CSS/fonts.css/Roboto-Regular.ttf);
 }
 
 @font-face {
@@ -25,6 +25,11 @@ ul{
 
 a{
     text-decoration: none;
+    color: inherit;
+}
+
+address {
+    font-style: normal;
 }
 
 .visually-hidden {
