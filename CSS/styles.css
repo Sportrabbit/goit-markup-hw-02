@@ -1,18 +1,3 @@
-@font-face {
-    font-family: "Roboto 500";
-    src: url(../CSS/fonts.css/Roboto-Medium.ttf);
-}
-
-@font-face {
-    font-family: "Roboto 400";
-    src: url(../CSS/fonts.css/Roboto-Regular.ttf);
-}
-
-@font-face {
-    font-family: "Raleway 700";
-    src: url(../Styles.css/Fonts.css/static.css/Raleway-Bold.ttf);
-}
-
 body {
    font-family: 'Roboto', sans-serif;
    color: #434455;
