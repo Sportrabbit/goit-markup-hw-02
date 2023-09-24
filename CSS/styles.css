@@ -292,11 +292,9 @@ text-transform: uppercase;
 }
 
 .footer-lg-italic span {
-color: #f4f4fd ;
+    color: #f4f4fd ;
 }
 
-.footer-lg {
-}
 
 .footer-text {
     color: #F4F4FD;
