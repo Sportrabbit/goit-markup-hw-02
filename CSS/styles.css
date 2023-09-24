@@ -124,7 +124,7 @@ text-transform: uppercase;
 
 .header-address-item:focus ,
 .header-address-item:hover {
-    color: #404bbf
+    color: #404bbf ;
 }
 
 .header-address-link {
