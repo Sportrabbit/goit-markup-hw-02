@@ -67,6 +67,7 @@ address {
 /** ===============HEADER===========*/
 
 .header {
+    border-bottom: 1px solid #e7e9fc;
     padding-top: 20px;
     padding-bottom: 20px;
 }
@@ -84,6 +85,7 @@ address {
    letter-spacing: 0.03em;
    text-transform: uppercase;
    display: inline-flex;
+   margin-right: 76px;
 height: 24px;
 align-items: center;
 flex-shrink: 0;
@@ -129,6 +131,7 @@ flex-shrink: 0;
 
 .header-address-list {
     display: flex;
+    padding: 24px 0;
     gap: 40px;
 }
 
@@ -156,6 +159,9 @@ flex-shrink: 0;
 .header-container {
     display: flex;
 align-items: center;
+width: 1158px;
+margin: 0 auto;
+padding: 0 15px;
 }
 
 /**==================================*/
