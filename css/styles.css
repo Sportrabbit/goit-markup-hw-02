@@ -159,7 +159,8 @@ align-items: center;
 /** ==============ORDER==============*/
 
 .order {
-    padding-bottom: 72px;
+    padding-top: 188px;
+    padding-bottom: 188px;
 }
 
 .order-container {
@@ -168,13 +169,13 @@ align-items: center;
 }
 
 .order-title {
+    max-width: 496px;
     color: #FFF;
 text-align: center;
 font-size: 56px;
 font-weight: 700;
 line-height: 1.07;
 letter-spacing: 0.02em;
-max-width: 500px;
 margin: 0 auto;
 margin-bottom: 48px;
 }
@@ -187,6 +188,8 @@ font-weight: 500;
 line-height: 1.5;
 letter-spacing: 0.04em;
 cursor: pointer;
+display: block;
+min-width: 169px;
 padding: 16px 32px;
 border-radius: 4px;
 margin: 0 auto;
