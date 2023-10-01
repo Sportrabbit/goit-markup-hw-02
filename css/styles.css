@@ -227,7 +227,6 @@ border: none;
 }
 
 .strategy-item {
-    width: calc((100% - 3*24px) / 4) ;
 }
 
 .strategy-subtitle {
@@ -236,6 +235,7 @@ font-size: 20px;
 font-weight: 500;
 line-height: 1.2;
 letter-spacing: 0.02em;
+width: calc((100% - 3*24px) / 4);
 margin-bottom: 8px;
 }
 .strategy-item-text {
