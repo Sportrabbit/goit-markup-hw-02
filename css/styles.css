@@ -127,11 +127,11 @@ flex-shrink: 0;
 }
 
 .header-address {
+    padding: 24px 0;
 }
 
 .header-address-list {
     display: flex;
-    padding: 24px 0;
     gap: 40px;
 }
 
