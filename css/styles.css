@@ -101,6 +101,7 @@ flex-shrink: 0;
 
 .header-menu-list {
     display: flex;
+    padding: 24px 0;
     gap: 40px;
 }
 
@@ -127,7 +128,6 @@ flex-shrink: 0;
 }
 
 .header-address {
-    padding: 24px 0;
 }
 
 .header-address-list {
