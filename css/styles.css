@@ -176,16 +176,19 @@ padding: 0 15px;
 }
 
 .order-container {
+    padding-top: 188px;
+    padding-bottom: 188px;
+    margin: 0 auto;
     background-color:  rgba(46, 47, 66, 0.70);
     background-image: linear-gradient(
         rgba(46, 47, 66, 0.70),
         rgba(46, 47, 66, 0.70)
          ),
          url(../images/people-office\ 1.jpg);
+    max-width: 1440px;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    padding: 380px 40px 40px 40px;
 }
 
 .order-title {
@@ -242,6 +245,18 @@ border: none;
 
 .strategy-item {
     width: calc((100% - 72px) / 4);
+}
+
+.strategy-item-icon {
+    fill: #2E2F42;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 264px;
+    height: 112px;
+    border-radius: 4px;
+    border: 1px solid #8E8F99;
+    background: #F4F4FD;
 }
 
 .strategy-subtitle {
@@ -324,6 +339,13 @@ letter-spacing: 0.02em;
     font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
+}
+
+.team-soc-item {
+    display: flex;
+justify-content: center;
+align-items: center;
+gap: 24px;
 }
 
 /**==================================*/
