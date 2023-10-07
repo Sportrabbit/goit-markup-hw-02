@@ -74,8 +74,6 @@ address {
 
 .header {
     border-bottom: 1px solid #e7e9fc;
-    padding-top: 20px;
-    padding-bottom: 20px;
 }
 .header-navigation {
     display: flex;
@@ -92,10 +90,8 @@ address {
    text-transform: uppercase;
    display: inline-flex;
    margin-right: 76px;
-height: 24px;
-align-items: center;
-flex-shrink: 0;
 }
+
 .header-logo-italic {
    color: #2E2F42;
    font-size: 18px;
@@ -108,7 +104,6 @@ flex-shrink: 0;
 .header-menu-list {
     display: flex;
     gap: 40px;
-    padding: 24px 0;
 }
 
 .header-menu-item {
@@ -131,7 +126,6 @@ flex-shrink: 0;
    color: #404bbf;
 }
 .header-logo-italic{
-   font-style: italic;
 }
 
 .header-address {
@@ -178,11 +172,20 @@ padding: 0 15px;
 .order {
     padding-top: 188px;
     padding-bottom: 188px;
+    background: #2E2F42;
 }
 
 .order-container {
-    background-color: #2E2F42;
-    padding: 190px 460px 290px 460px;
+    background-color:  rgba(46, 47, 66, 0.70);
+    background-image: linear-gradient(
+        rgba(46, 47, 66, 0.70),
+        rgba(46, 47, 66, 0.70)
+         ),
+         url(../images/people-office\ 1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 380px 40px 40px 40px;
 }
 
 .order-title {
@@ -293,7 +296,6 @@ margin-bottom: 72px;
 }
 
 .team-img {
-    margin-bottom: 32px;
 }
 
 .container-text-team {
@@ -322,7 +324,6 @@ letter-spacing: 0.02em;
     font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    margin-bottom: 32px;
 }
 
 /**==================================*/
@@ -398,7 +399,8 @@ line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 display: inline-block; 
-margin-bottom: 16px; 
+margin-bottom: 16px;
+padding: 0; 
 }
 
 .footer-lg span {
