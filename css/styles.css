@@ -290,8 +290,6 @@ transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 264px;
-    height: 112px;
     border-radius: 4px;
     border: 1px solid #8E8F99;
     background: #F4F4FD;
