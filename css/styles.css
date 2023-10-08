@@ -130,7 +130,7 @@ address {
    color: #404BBF;
 }
 
-.header-menu-link:hover::after {
+.active-link:hover::after {
     content: '';
     position: absolute;
     left: 0;
