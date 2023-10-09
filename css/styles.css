@@ -414,6 +414,11 @@ height: 40px;
     fill: #F4F4FD;
 }
 
+.team-soc-item {
+    width: 40px;
+    height: 40px; 
+}
+
 /**==================================*/
 
 /** ==============PORTFOLIO==============*/
