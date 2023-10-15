@@ -748,7 +748,7 @@ margin-bottom: 16px;
 }
 
 .modal-field {
-    margin-bottom: 8px; 
+    margin-bottom: 16px; 
 }
 
 .modal-lable{
@@ -828,7 +828,7 @@ padding-left: 16px;
 }
 
 .modal-field-checkbox {
-    margin-bottom: 16px;
+    margin-bottom: 24px;
 }
 
 .check-text {
