@@ -748,7 +748,11 @@ margin-bottom: 16px;
 }
 
 .modal-field {
-    margin-bottom: 16px; 
+    margin-bottom: 8px; 
+}
+
+.modal-field-2 {
+    margin-bottom: 16px;
 }
 
 .modal-lable{
